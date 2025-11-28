@@ -50,3 +50,4 @@ To showcase my skills in data analysis, data visualization, and business intelli
 
 Clone it ➝ Run it ➝ Learn from it ✨
 Your feedback and suggestions are always welcome! 😊🤝
+example :https://github.com/Karanjadhav4/Amazon-sales-Analysis/blob/main/snapshot%20of%20the%20Amazon%20Dashboord.png
